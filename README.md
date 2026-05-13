@@ -47,13 +47,8 @@
 
 ###
 
-<h3 align="left">🔥 Estatísticas</h3>
-
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=marcoverass&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoverass&layout=compact&theme=transparent&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&bg_color=00000000&locale=pt-br" height="180" alt="Linguagens mais usadas" />
 </div>
 
-###
 
