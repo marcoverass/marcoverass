@@ -45,10 +45,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/marcoverass/marcoverass/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" height="180" alt="Linguagens mais usadas" />
-</div>
 
 
