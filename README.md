@@ -48,7 +48,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoverass&layout=compact&theme=transparent&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&bg_color=00000000&locale=pt-br" height="180" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoverass&layout=compact&theme=github_dark&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&bg_color=0D1117&locale=pt-br" height="180" alt="Linguagens mais usadas" />
 </div>
 
 
