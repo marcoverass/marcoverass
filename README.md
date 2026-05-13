@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center"><a href="https://www.linkedin.com/in/marco-veras/" style="text-decoration:none;"><img src="./assest/Linked__1_-removebg-preview.png" width="135" alt="linkedin logo" style="vertical-align: middle;" /></a><a href="mailto:marco.sansonesouza@hotmail.com" style="text-decoration:none;"><img src="./assest/Email-removebg-preview.png" width="135" alt="email logo" style="vertical-align: middle; position: relative; top: -3px;" /></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/marco-veras/" style="text-decoration:none;"><img src="./assest/Linked__1_-removebg-preview.png" width="135" alt="linkedin logo" style="vertical-align: middle;" /></a><a href="mailto:marco.sansonesouza@hotmail.com" style="text-decoration:none;"><img src="./assest/Email-removebg-preview.png" width="135" alt="email logo" style="vertical-align: middle; position: relative; top: -4px;" /></a></p>
 
 ###
 
