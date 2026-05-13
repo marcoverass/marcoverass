@@ -48,7 +48,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/marcoverass/marcoverass/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" height="180" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoverass&layout=compact&theme=tokyonight&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&hide_border=false&card_width=420&locale=pt-br" height="180" alt="Linguagens mais usadas" />
 </div>
 
 
