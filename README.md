@@ -4,16 +4,14 @@
 
 ###
 
-<table align="center">
-  <tr>
-    <td valign="middle">
-      <img src="./assest/Linked__1_-removebg-preview.png" width="150" alt="linkedin logo" />
-    </td>
-    <td valign="middle">
-      <img src="./assest/Email-removebg-preview.png" width="150" alt="email logo" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/marco-veras/">
+    <img src="./assest/Linked__1_-removebg-preview.png" width="150" alt="linkedin logo" />
+  </a>
+  <a href="mailto:marco.sansonesouza@hotmail.com">
+    <img src="./assest/Email-removebg-preview.png" width="150" alt="email logo" />
+  </a>
+</p>
 
 ###
 
