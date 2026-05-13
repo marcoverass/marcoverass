@@ -4,10 +4,16 @@
 
 ###
 
-<p align="center">
-  <img src="./assest/Linked__1_-removebg-preview.png" width="150" alt="linkedin logo" style="vertical-align: middle;" />
-  <img src="./assest/Email-removebg-preview.png" width="150" alt="email logo" style="vertical-align: middle; position: relative; top: -2px;" />
-</p>
+<table align="center">
+  <tr>
+    <td valign="middle">
+      <img src="./assest/Linked__1_-removebg-preview.png" width="150" alt="linkedin logo" />
+    </td>
+    <td valign="middle">
+      <img src="./assest/Email-removebg-preview.png" width="150" alt="email logo" />
+    </td>
+  </tr>
+</table>
 
 ###
 
