@@ -22,6 +22,7 @@
 
 <img src="https://raw.githubusercontent.com/marcoverass/marcoverass/snake-output/snake.svg" alt="Snake animation" />
 
+
 ###
 
 <h3 align="left">🛠 Linguagens e ferramentas</h3>
