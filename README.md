@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Atuo com desenvolvimento utilizando Java, Python, MySQL e consumo de APIs.<br><br>- 🔭 Também trabalho com desenvolvimento web em Django, modelagem simples de sistemas e leitura e escrita de arquivos.<br>- 📚 Tenho base em programação orientada a objetos, lógica de programação, resolução de problemas e estruturas de dados em C.<br>- ⚡ No momento, estou me aprofundando em Java com Spring Boot e criação de APIs.</p>
+<p align="left">Atuo com desenvolvimento utilizando Java, Python, MySQL e consumo de APIs.<br><br>- 💻 Também trabalho com desenvolvimento web em Django, modelagem simples de sistemas e leitura e escrita de arquivos.<br>- 💻 Programação orientada a objetos, lógica de programação, resolução de problemas e estruturas de dados em C.<br>- ⚡ No momento, estou me aprofundando em Java com Spring Boot e criação de APIs.</p>
 
 ###
 
